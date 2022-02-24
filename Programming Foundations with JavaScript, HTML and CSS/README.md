@@ -13,9 +13,6 @@ After completing this course, you will be able to:
 4. Add styles to a web page with CSS IDs and classes; and
 5. Make a web page interactive with JavaScript commands like alert, onClick, onChange, adding input features like an image canvas, button, and slider.
 
-
-<br>
-<br>
 <br>
 
 <p align="center">
