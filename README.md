@@ -8,8 +8,6 @@ In addition, you will gain the foundational skills a software engineer needs to 
 from designing algorithms to testing and debugging your programs.
 
 <br>
-<br>
-<br>
 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/47467891/155602701-2c6b1a5f-da33-4468-8882-20a2ef1f58da.jpg">
