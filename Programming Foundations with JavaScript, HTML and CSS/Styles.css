@@ -1,0 +1,12 @@
+
+h1{
+    color:black;
+    text-align:center;
+  }
+  
+  canvas{
+    width:500px;
+    height:500px;
+    border: 1px solid #C3C3C3;
+  }
+  
