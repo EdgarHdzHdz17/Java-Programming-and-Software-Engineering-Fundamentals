@@ -18,5 +18,5 @@ After completing this course, you will be able to:
 <br>
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/47467891/154761293-6a10ff56-ef37-4eb8-8e5d-e3c4dd29cfee.jpg">
+<img src="https://user-images.githubusercontent.com/47467891/155602484-779d8344-ccf3-4871-9c88-c906fefda96d.png">
 </p>
